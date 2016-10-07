@@ -1,0 +1,24 @@
+
+.picture{
+	height:800px;
+	width:800px;
+	background-repeat:no-repeat;
+}
+.all{
+	background-image: url("../images/group.jpg");
+}
+.blue{
+	background-image: url("../images/blue.jpg");	
+}
+.purple{
+	background-image: url("../images/purple.jpg");
+}
+.red{
+		background-image: url("../images/red.jpg");
+}
+.orange{
+	background-image: url("../images/orange.jpg");
+}
+.april{
+		background-image: url("../images/april.jpg");
+}
